@@ -9,3 +9,6 @@
 s1 = int(input())
 s2 = int(input())
 s3 = int(input())
+score = s1 + s2 + s3
+score_เฉลี่ย = score // 3
+print("คะแนนเฉลี่ย = ", + score_เฉลี่ย)
