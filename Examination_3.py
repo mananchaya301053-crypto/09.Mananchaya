@@ -7,3 +7,9 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 n = int(input())
+a = 5
+b = n % 5
+if b == 0:
+    print("yes")
+else:
+    print("No")
